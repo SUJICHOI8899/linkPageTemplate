@@ -5,8 +5,14 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-family: Arial, sans-serif;
+    background-color: rgb(251, 251, 251);
 }
 
 button {
     width: 200px;
+}
+
+h1 {
+    color: navy;
 }
